@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/55AzIlCQuYuLj4qK8j/giphy.gif?cid=790b76110c672e0a6abaa4e1b5060e32d194bd6b81b8f905&rid=giphy.gif&ct=g" align="center">
+<img src="https://media0.giphy.com/media/55AzIlCQuYuLj4qK8j/giphy.gif?cid=790b76110c672e0a6abaa4e1b5060e32d194bd6b81b8f905&rid=giphy.gif&ct=g" align="center" width="1000px">
 
  <h2 align="left">👨🏻‍💻 About Me:</h2>
 
