@@ -13,11 +13,7 @@
    </ul>
 
  <br>
-  <br>
-   <br>
-    <br>
-     <br>
-      <br>
+ 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREsOKC1vXldSaUMr31KQ7vLMK-hWA6YpZ_cbFqd1aiYfZDPPRB-l-PtFk6uXpqGf_1KLI&usqp=CAU" alt="blender"width="40" height="40"/> 
