@@ -1,9 +1,9 @@
-<img src="https://media0.giphy.com/media/55AzIlCQuYuLj4qK8j/giphy.gif?cid=790b76110c672e0a6abaa4e1b5060e32d194bd6b81b8f905&rid=giphy.gif&ct=g" align="center" width="1000px">
+<img src="https://discourse.disneyheroesgame.com/uploads/default/original/3X/e/a/ead2d662a27bcd6b06feb16fc63d3dd95d199277.gif" align="center" width="1000px">
 
  <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 
- <img src="https://discourse.disneyheroesgame.com/uploads/default/original/3X/e/a/ead2d662a27bcd6b06feb16fc63d3dd95d199277.gif" alt="Coder GIF" width="400" height="300" align="right">
+ <img src="https://media0.giphy.com/media/55AzIlCQuYuLj4qK8j/giphy.gif?cid=790b76110c672e0a6abaa4e1b5060e32d194bd6b81b8f905&rid=giphy.gif&ct=g" alt="Coder GIF" width="400" height="300" align="right">
 
    <ul> 
       <li>My name is Yakup KAYA and I was born in Turkey </li>
