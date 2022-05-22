@@ -1,4 +1,6 @@
-<img src="https://discourse.disneyheroesgame.com/uploads/default/original/3X/e/a/ead2d662a27bcd6b06feb16fc63d3dd95d199277.gif" align="center" width="1000px">
+<p align="center">
+<img src="https://discourse.disneyheroesgame.com/uploads/default/original/3X/e/a/ead2d662a27bcd6b06feb16fc63d3dd95d199277.gif" width="500" width="1000px">
+ </p>
 
  <h2 align="left">👨🏻‍💻 About Me:</h2>
 
