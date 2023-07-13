@@ -8,8 +8,8 @@
    <ul> 
       <li>My name is Yakup KAYA and I was born in Turkey </li>
       <li>I'm 21 years old</li>
-      <li>I'm a 3rd student at Trakya University departmant of Computer Science And Information System</li>
-      <li>I'm wanna be professional Game Developer. Because of this i'm learning a few game engine. For Example; Unity, Unreal Engine 4</li>    
+      <li>I'm graduated at Trakya University departmant of Computer Science And Information System</li>
+      <li>I'm wanna be professional Game Developer. Because of this i'm learning a few game engine. For Example; Unity, Unreal Engine.</li>    
    </ul>
 
  <br>
