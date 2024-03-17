@@ -1,17 +1,6 @@
 <p align="center">
 <img src="https://discourse.disneyheroesgame.com/uploads/default/original/3X/e/a/ead2d662a27bcd6b06feb16fc63d3dd95d199277.gif" width="500" width="1000px">
  </p>
-
- <h2 align="left">👨🏻‍💻 About Me:</h2>
-
-
-   <ul> 
-      <li>My name is Yakup KAYA and I was born in Turkey </li>
-      <li>I'm 23 years old</li>
-      <li>I'm graduated at Trakya University departmant of Computer Science And Information System</li>
-      <li>I'm wanna be professional Game Developer. Because of this i'm learning a few game engine. For Example; Unity, Unreal Engine.</li>    
-   </ul>
-
  <br>
  
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
@@ -19,8 +8,6 @@
 <img src="https://img.icons8.com/nolan/50/unity.png" alt="unity" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 <img src="https://img.icons8.com/nolan/50/unreal-engine.png" alt="unreal" width="40" height="40"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREsOKC1vXldSaUMr31KQ7vLMK-hWA6YpZ_cbFqd1aiYfZDPPRB-l-PtFk6uXpqGf_1KLI&usqp=CAU" alt="blender"width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
  
 
